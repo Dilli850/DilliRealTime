@@ -1,0 +1,7 @@
+package com.nt.document;
+
+import lojava.lang.Object;
+
+public class Insurence extends Object {
+
+}

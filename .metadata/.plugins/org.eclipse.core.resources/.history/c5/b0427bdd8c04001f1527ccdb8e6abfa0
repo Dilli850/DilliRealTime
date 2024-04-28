@@ -1,0 +1,20 @@
+package com.nt.service;
+
+import com.nt.document.DrivingLicense;
+import com.nt.document.Person;
+
+public class RtoService implements RTODetailsMgmt {
+
+	@Override
+	public String registerPerson(Person person) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String registerDrivingDetails(DrivingLicense license) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,11 @@
+package com.nt.service;
+
+public class EmployeeService implements EmployeeMgmtService {
+
+	@Override
+	public String saveEmployee() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

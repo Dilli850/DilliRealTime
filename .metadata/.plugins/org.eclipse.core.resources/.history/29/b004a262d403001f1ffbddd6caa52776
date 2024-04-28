@@ -1,0 +1,13 @@
+package com.nt.service;
+
+import com.nt.document.PlayerInfo;
+
+public class PlayerService implements IPlayrMgmtService {
+
+	@Override
+	public String savePlayerInfo(PlayerInfo info) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
